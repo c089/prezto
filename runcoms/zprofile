@@ -46,7 +46,7 @@ path=(
   ./node_modules/.bin
   ~/bin
   ~/.cabal/bin
-  /usr/local/share/npm/bin/
+  /usr/local/share/npm/bin
   /usr/local/{bin,sbin}
   $path
 )
