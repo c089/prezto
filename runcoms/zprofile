@@ -45,7 +45,7 @@ typeset -gU cdpath fpath mailpath path
 path=(
   ./node_modules/.bin
   ~/bin
-  ~/.cabal/bin
+  ~/Library/Haskell/bin
   /usr/local/share/npm/bin
   /usr/local/{bin,sbin}
   $path
