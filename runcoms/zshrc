@@ -12,8 +12,10 @@ fi
 
 alias g='git'
 alias ga='git add'
+alias gap='git add -p'
 alias gs='git status'
 alias gd='git diff'
+alias gds='git diff --staged'
 alias gc='git commit --verbose'
 alias gf='git fetch -all --prune'
 alias git-rm-merged='git branch --merged | grep -v "\*" | xargs -n 1 git branch -d'
