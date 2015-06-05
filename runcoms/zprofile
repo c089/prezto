@@ -17,8 +17,7 @@ fi
 # Editors
 #
 
-export EDITOR='vim'
-export VISUAL='mvim --remote-tab-silent'
+export VISUAL='emacsclient'
 export PAGER='less'
 
 #
